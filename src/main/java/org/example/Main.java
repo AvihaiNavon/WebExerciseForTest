@@ -19,6 +19,7 @@ public class Main {
 //            }
 //        });
         //SoccerLeagueMission soccerLeagueMission=new SoccerLeagueMission();
-        Basketball basketball=new Basketball();
+        //Basketball basketball=new Basketball();
+        MostCommonWord mostCommonWord=new MostCommonWord();
     }
 }
